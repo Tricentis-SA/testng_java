@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TS-7 April-07-2014]" verbose="0">
+  <test name="testCaculate(failed)">
+    <classes>
+      <class name="CalculatorTest">
+        <methods>
+          <include name="initCalculator"/>
+          <include name="testSubstraction"/>
+        </methods>
+      </class> <!-- CalculatorTest -->
+    </classes>
+  </test> <!-- testCaculate(failed) -->
+</suite> <!-- Failed suite [TS-7 April-07-2014] -->
