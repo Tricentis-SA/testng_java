@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<suite name="TS-7 April-07-2014">
+    <test name="testCaculate">
+        <classes>
+            <class name="CalculatorTest" />
+        </classes>
+    </test>
+</suite>
